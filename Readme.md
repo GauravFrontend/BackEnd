@@ -1,2 +1,3 @@
 # learning backend
-// starting middlewares, how to upload file, 27:43
+
+// aggregate pipline 31:00
